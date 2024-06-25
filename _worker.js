@@ -27,7 +27,7 @@ let addressesnotlsapi = [
 	//'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 ];
 
-let DLS = 1000;//速度下限
+let DLS = 8000;//速度下限
 let addressescsv = [
 	'https://raw.githubusercontent.com/qianjianmin/WorkerVless2sub/main/ip.csv',
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv', //iptest测速结果文件。
@@ -40,8 +40,9 @@ let link = '';
 let edgetunnel = 'ed';
 let RproxyIP = 'false';
 let proxyIPs = [//无法匹配到节点名就随机分配以下ProxyIP域名
-	'proxyip.us.fxxk.dedyn.io',
-	//'proxyip.aliyun.fxxk.dedyn.io',
+	'proxyip.aliyun.fxxk.dedyn.io',
+	'proxyip.oracle.fxxk.dedyn.io',
+	'proxyip.digitalocean.fxxk.dedyn.io',
 	//'proxyip.multacom.fxxk.dedyn.io',
 	//'proxyip.vultr.fxxk.dedyn.io',
 ];
