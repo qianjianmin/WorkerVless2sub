@@ -40,7 +40,8 @@ let link = '';
 let edgetunnel = 'ed';
 let RproxyIP = 'false';
 let proxyIPs = [//无法匹配到节点名就随机分配以下ProxyIP域名
-	'proxyip.hk.fxxk.dedyn.io',
+	'proxyip.us.fxxk.dedyn.io',
+	//'proxyip.hk.fxxk.dedyn.io',
 	//'proxyip.aliyun.fxxk.dedyn.io',
 	//'proxyip.oracle.fxxk.dedyn.io',
 	//'proxyip.digitalocean.fxxk.dedyn.io',
