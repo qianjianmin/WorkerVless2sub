@@ -1,33 +1,29 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-47.242.232.14,2083,TRUE,HKG,Asia Pacific,Hong Kong,37 ms,6551 kB/s
-47.242.232.14,2087,TRUE,HKG,Asia Pacific,Hong Kong,49 ms,0 kB/s
-47.242.232.14,2053,TRUE,HKG,Asia Pacific,Hong Kong,57 ms,0 kB/s
-47.242.54.157,8443,TRUE,HKG,Asia Pacific,Hong Kong,37 ms,5054 kB/s
-47.242.54.157,2053,TRUE,HKG,Asia Pacific,Hong Kong,43 ms,2856 kB/s
-47.242.54.157,2087,TRUE,HKG,Asia Pacific,Hong Kong,49 ms,0 kB/s
-47.242.54.157,2083,TRUE,HKG,Asia Pacific,Hong Kong,40 ms,0 kB/s
-47.243.120.239,2096,TRUE,HKG,Asia Pacific,Hong Kong,43 ms,34 kB/s
-47.243.120.239,8443,TRUE,HKG,Asia Pacific,Hong Kong,49 ms,33 kB/s
-47.243.120.239,2087,TRUE,HKG,Asia Pacific,Hong Kong,43 ms,29 kB/s
-47.243.120.239,2083,TRUE,HKG,Asia Pacific,Hong Kong,52 ms,21 kB/s
-47.243.169.90,2087,TRUE,HKG,Asia Pacific,Hong Kong,45 ms,38 kB/s
-47.243.169.90,2053,TRUE,HKG,Asia Pacific,Hong Kong,53 ms,32 kB/s
-47.243.169.90,2083,TRUE,HKG,Asia Pacific,Hong Kong,47 ms,31 kB/s
-47.243.169.90,2096,TRUE,HKG,Asia Pacific,Hong Kong,40 ms,29 kB/s
-47.243.169.90,8443,TRUE,HKG,Asia Pacific,Hong Kong,40 ms,28 kB/s
-47.243.198.198,2083,TRUE,HKG,Asia Pacific,Hong Kong,51 ms,36 kB/s
-47.243.198.198,2096,TRUE,HKG,Asia Pacific,Hong Kong,49 ms,19 kB/s
-47.243.198.198,2087,TRUE,HKG,Asia Pacific,Hong Kong,41 ms,14 kB/s
-47.243.42.155,2083,TRUE,HKG,Asia Pacific,Hong Kong,49 ms,8507 kB/s
-47.243.42.155,2096,TRUE,HKG,Asia Pacific,Hong Kong,38 ms,7730 kB/s
-47.243.42.155,2053,TRUE,HKG,Asia Pacific,Hong Kong,54 ms,5146 kB/s
-47.243.42.155,8443,TRUE,HKG,Asia Pacific,Hong Kong,45 ms,14888 kB/s
-47.57.13.107,443,TRUE,HKG,Asia Pacific,Hong Kong,42 ms,54 kB/s
-8.210.126.88,2096,TRUE,HKG,Asia Pacific,Hong Kong,42 ms,38 kB/s
-8.210.126.88,2087,TRUE,HKG,Asia Pacific,Hong Kong,38 ms,38 kB/s
-8.210.126.88,2053,TRUE,HKG,Asia Pacific,Hong Kong,39 ms,35 kB/s
-8.210.126.88,2083,TRUE,HKG,Asia Pacific,Hong Kong,49 ms,0 kB/s
-8.217.132.184,443,TRUE,HKG,Asia Pacific,Hong Kong,36 ms,3844 kB/s
-8.218.92.195,8443,TRUE,HKG,Asia Pacific,Hong Kong,42 ms,38 kB/s
-8.218.92.195,2087,TRUE,HKG,Asia Pacific,Hong Kong,44 ms,37 kB/s
-8.218.92.195,2053,TRUE,HKG,Asia Pacific,Hong Kong,52 ms,33 kB/s
+129.159.83.88,8443,TRUE,IAD,North America,Ashburn,247 ms,274 kB/s
+129.159.84.71,443,TRUE,IAD,North America,Ashburn,231 ms,506 kB/s
+132.145.134.230,443,TRUE,IAD,North America,Ashburn,257 ms,840 kB/s
+150.136.241.40,8443,TRUE,IAD,North America,Ashburn,252 ms,5499 kB/s
+47.253.105.131,443,TRUE,IAD,North America,Ashburn,248 ms,2197 kB/s
+47.253.56.77,443,TRUE,IAD,North America,Ashburn,247 ms,3442 kB/s
+129.146.137.89,2096,TRUE,LAX,North America,Los Angeles,211 ms,4267 kB/s
+129.146.242.24,2053,TRUE,LAX,North America,Los Angeles,200 ms,988 kB/s
+129.146.254.39,443,TRUE,LAX,North America,Los Angeles,222 ms,5148 kB/s
+129.146.46.164,443,TRUE,LAX,North America,Los Angeles,225 ms,6761 kB/s
+129.146.84.236,443,TRUE,LAX,North America,Los Angeles,217 ms,5765 kB/s
+152.70.155.147,2083,TRUE,LAX,North America,Los Angeles,187 ms,4513 kB/s
+152.70.155.147,2087,TRUE,LAX,North America,Los Angeles,194 ms,0 kB/s
+152.70.155.147,8443,TRUE,LAX,North America,Los Angeles,196 ms,3934 kB/s
+152.70.155.147,2096,TRUE,LAX,North America,Los Angeles,198 ms,4831 kB/s
+152.70.155.147,2053,TRUE,LAX,North America,Los Angeles,207 ms,5407 kB/s
+158.101.11.22,8443,TRUE,LAX,North America,Los Angeles,213 ms,4005 kB/s
+129.159.47.255,443,TRUE,SJC,North America,San Jose,202 ms,0 kB/s
+150.230.44.131,8443,TRUE,SJC,North America,San Jose,173 ms,0 kB/s
+152.70.117.136,443,TRUE,SJC,North America,San Jose,202 ms,4042 kB/s
+152.70.123.225,8443,TRUE,SJC,North America,San Jose,200 ms,3995 kB/s
+155.248.202.141,443,TRUE,SJC,North America,San Jose,197 ms,5772 kB/s
+140.238.158.238,443,TRUE,YYZ,North America,Toronto,247 ms,5479 kB/s
+204.216.105.106,8443,TRUE,YYZ,North America,Toronto,222 ms,2448 kB/s
+68.233.127.163,8443,TRUE,YYZ,North America,Toronto,226 ms,2008 kB/s
+132.226.163.224,2053,TRUE,GRU,South America,S?o Paulo,361 ms,1065 kB/s
+132.226.163.224,8443,TRUE,GRU,South America,S?o Paulo,366 ms,1010 kB/s
+144.22.252.124,443,TRUE,GRU,South America,S?o Paulo,356 ms,4226 kB/s
