@@ -1,29 +1,45 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-129.159.83.88,8443,TRUE,IAD,North America,Ashburn,247 ms,274 kB/s
-129.159.84.71,443,TRUE,IAD,North America,Ashburn,231 ms,506 kB/s
-132.145.134.230,443,TRUE,IAD,North America,Ashburn,257 ms,840 kB/s
-150.136.241.40,8443,TRUE,IAD,North America,Ashburn,252 ms,5499 kB/s
-47.253.105.131,443,TRUE,IAD,North America,Ashburn,248 ms,2197 kB/s
-47.253.56.77,443,TRUE,IAD,North America,Ashburn,247 ms,3442 kB/s
-129.146.137.89,2096,TRUE,LAX,North America,Los Angeles,211 ms,4267 kB/s
-129.146.242.24,2053,TRUE,LAX,North America,Los Angeles,200 ms,988 kB/s
-129.146.254.39,443,TRUE,LAX,North America,Los Angeles,222 ms,5148 kB/s
-129.146.46.164,443,TRUE,LAX,North America,Los Angeles,225 ms,6761 kB/s
-129.146.84.236,443,TRUE,LAX,North America,Los Angeles,217 ms,5765 kB/s
-152.70.155.147,2083,TRUE,LAX,North America,Los Angeles,187 ms,4513 kB/s
-152.70.155.147,2087,TRUE,LAX,North America,Los Angeles,194 ms,0 kB/s
-152.70.155.147,8443,TRUE,LAX,North America,Los Angeles,196 ms,3934 kB/s
-152.70.155.147,2096,TRUE,LAX,North America,Los Angeles,198 ms,4831 kB/s
-152.70.155.147,2053,TRUE,LAX,North America,Los Angeles,207 ms,5407 kB/s
-158.101.11.22,8443,TRUE,LAX,North America,Los Angeles,213 ms,4005 kB/s
-129.159.47.255,443,TRUE,SJC,North America,San Jose,202 ms,0 kB/s
-150.230.44.131,8443,TRUE,SJC,North America,San Jose,173 ms,0 kB/s
-152.70.117.136,443,TRUE,SJC,North America,San Jose,202 ms,4042 kB/s
-152.70.123.225,8443,TRUE,SJC,North America,San Jose,200 ms,3995 kB/s
-155.248.202.141,443,TRUE,SJC,North America,San Jose,197 ms,5772 kB/s
-140.238.158.238,443,TRUE,YYZ,North America,Toronto,247 ms,5479 kB/s
-204.216.105.106,8443,TRUE,YYZ,North America,Toronto,222 ms,2448 kB/s
-68.233.127.163,8443,TRUE,YYZ,North America,Toronto,226 ms,2008 kB/s
-132.226.163.224,2053,TRUE,GRU,South America,S?o Paulo,361 ms,1065 kB/s
-132.226.163.224,8443,TRUE,GRU,South America,S?o Paulo,366 ms,1010 kB/s
-144.22.252.124,443,TRUE,GRU,South America,S?o Paulo,356 ms,4226 kB/s
+152.67.190.105,443,TRUE,HYD,Asia Pacific,Hyderabad,222 ms,0 kB/s
+129.154.254.254,8443,TRUE,BOM,Asia Pacific,Mumbai,223 ms,8901 kB/s
+138.2.36.157,8443,TRUE,KIX,Asia Pacific,Osaka,290 ms,5880 kB/s
+152.69.199.70,8443,TRUE,KIX,Asia Pacific,Osaka,297 ms,5387 kB/s
+152.70.85.165,2083,TRUE,KIX,Asia Pacific,Osaka,286 ms,6588 kB/s
+168.138.46.67,443,TRUE,KIX,Asia Pacific,Osaka,293 ms,4963 kB/s
+129.154.50.159,443,TRUE,ICN,Asia Pacific,Seoul,53 ms,32395 kB/s
+132.145.81.117,443,TRUE,ICN,Asia Pacific,Seoul,72 ms,1 kB/s
+132.226.226.100,2053,TRUE,ICN,Asia Pacific,Seoul,98 ms,28260 kB/s
+132.226.226.100,2083,TRUE,ICN,Asia Pacific,Seoul,68 ms,27034 kB/s
+144.24.74.51,443,TRUE,ICN,Asia Pacific,Seoul,55 ms,32416 kB/s
+144.24.78.162,443,TRUE,ICN,Asia Pacific,Seoul,55 ms,31420 kB/s
+144.24.85.158,443,TRUE,ICN,Asia Pacific,Seoul,51 ms,35009 kB/s
+193.122.101.68,2083,TRUE,ICN,Asia Pacific,Seoul,52 ms,9834 kB/s
+141.147.161.161,443,TRUE,SIN,Asia Pacific,Singapore,227 ms,7654 kB/s
+168.138.182.37,8443,TRUE,SIN,Asia Pacific,Singapore,225 ms,5571 kB/s
+8.219.110.248,2053,TRUE,SIN,Asia Pacific,Singapore,73 ms,28 kB/s
+8.219.110.248,2083,TRUE,SIN,Asia Pacific,Singapore,71 ms,29 kB/s
+8.219.110.248,2087,TRUE,SIN,Asia Pacific,Singapore,78 ms,28 kB/s
+8.219.123.11,2053,TRUE,SIN,Asia Pacific,Singapore,73 ms,27 kB/s
+8.219.123.11,2096,TRUE,SIN,Asia Pacific,Singapore,89 ms,26 kB/s
+8.219.170.232,2087,TRUE,SIN,Asia Pacific,Singapore,78 ms,16944 kB/s
+8.219.208.104,8443,TRUE,SIN,Asia Pacific,Singapore,69 ms,27 kB/s
+8.219.208.104,2053,TRUE,SIN,Asia Pacific,Singapore,72 ms,26 kB/s
+8.219.208.104,2083,TRUE,SIN,Asia Pacific,Singapore,70 ms,27 kB/s
+8.219.208.104,2087,TRUE,SIN,Asia Pacific,Singapore,79 ms,28 kB/s
+8.219.208.104,2096,TRUE,SIN,Asia Pacific,Singapore,81 ms,29 kB/s
+8.219.239.79,2083,TRUE,SIN,Asia Pacific,Singapore,75 ms,29 kB/s
+8.219.239.79,2096,TRUE,SIN,Asia Pacific,Singapore,66 ms,31 kB/s
+8.219.240.160,8443,TRUE,SIN,Asia Pacific,Singapore,71 ms,5442 kB/s
+8.219.240.160,2096,TRUE,SIN,Asia Pacific,Singapore,75 ms,6168 kB/s
+8.222.145.43,8443,TRUE,SIN,Asia Pacific,Singapore,70 ms,29 kB/s
+8.222.145.43,2053,TRUE,SIN,Asia Pacific,Singapore,65 ms,27 kB/s
+8.222.145.43,2087,TRUE,SIN,Asia Pacific,Singapore,74 ms,28 kB/s
+132.145.127.203,8443,TRUE,NRT,Asia Pacific,Tokyo,159 ms,142 kB/s
+132.145.93.198,2083,TRUE,NRT,Asia Pacific,Tokyo,65 ms,13672 kB/s
+132.226.1.227,443,TRUE,NRT,Asia Pacific,Tokyo,166 ms,0 kB/s
+138.3.222.33,443,TRUE,NRT,Asia Pacific,Tokyo,160 ms,6120 kB/s
+140.238.50.112,443,TRUE,NRT,Asia Pacific,Tokyo,161 ms,9078 kB/s
+140.238.58.181,2053,TRUE,NRT,Asia Pacific,Tokyo,185 ms,10759 kB/s
+141.147.186.227,443,TRUE,NRT,Asia Pacific,Tokyo,167 ms,11104 kB/s
+152.70.235.207,443,TRUE,NRT,Asia Pacific,Tokyo,53 ms,0 kB/s
+168.138.212.80,443,TRUE,NRT,Asia Pacific,Tokyo,156 ms,10976 kB/s
+47.74.4.97,443,TRUE,NRT,Asia Pacific,Tokyo,42 ms,41979 kB/s
