@@ -27,9 +27,14 @@ let addressesnotlsapi = [
 	//'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 ];
 
-let DLS = 1024;//速度下限
+let DLS = 10240;//速度下限
 let addressescsv = [
-	'https://raw.githubusercontent.com/qianjianmin/WorkerVless2sub/main/ip.csv',
+	'https://raw.githubusercontent.com/qianjianmin/WorkerVless2sub/main/443.csv',
+	'https://raw.githubusercontent.com/qianjianmin/WorkerVless2sub/main/2053.csv',
+	'https://raw.githubusercontent.com/qianjianmin/WorkerVless2sub/main/2083.csv',
+	'https://raw.githubusercontent.com/qianjianmin/WorkerVless2sub/main/2087.csv',
+	'https://raw.githubusercontent.com/qianjianmin/WorkerVless2sub/main/2096.csv',
+	'https://raw.githubusercontent.com/qianjianmin/WorkerVless2sub/main/8443.csv',
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv', //iptest测速结果文件。
 ];
 
