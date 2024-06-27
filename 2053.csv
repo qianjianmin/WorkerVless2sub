@@ -1,0 +1,8 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+8.219.170.232,2053,true,SIN,Asia Pacific,Singapore,88 ms,21914 kB/s
+152.70.155.147,2053,true,LAX,North America,Los Angeles,219 ms,11978 kB/s
+152.70.155.147,2053,true,LAX,North America,Los Angeles,227 ms,11919 kB/s
+8.219.170.232,2053,true,SIN,Asia Pacific,Singapore,88 ms,11316 kB/s
+130.61.239.203,2053,true,FRA,Europe,Frankfurt,258 ms,7601 kB/s
+130.61.239.203,2053,true,FRA,Europe,Frankfurt,253 ms,7516 kB/s
+8.219.240.160,2053,true,SIN,Asia Pacific,Singapore,76 ms,0 kB/s
